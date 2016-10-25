@@ -38,4 +38,4 @@ public class Silnia {
 //                wynik = wynik * i;
 //        }
 //
-//        Sys
+//        System.out.println(wynik);
